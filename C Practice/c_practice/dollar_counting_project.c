@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <stdlib.h>
 
 int main(void)
@@ -43,5 +43,6 @@ printf("So in total, we have %d 20's, %d 5's, and %d 1's. and how many did we st
 
 return 0;
 }
+*/
 
 

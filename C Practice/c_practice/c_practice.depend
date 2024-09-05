@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1725556449 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1725553999 source:c:\users\salva\onedrive\desktop\c practice\c_practice\another_file.c
+
+1725555239 source:c:\users\salva\onedrive\desktop\c practice\c_practice\celsius_program.c
+
+1725555970 source:c:\users\salva\onedrive\desktop\c practice\c_practice\volume_sphere_project.c
+	<stdlib.h>
+
+1725556563 source:c:\users\salva\onedrive\desktop\c practice\c_practice\dollar_counting_project.c
+	<stdlib.h>
+

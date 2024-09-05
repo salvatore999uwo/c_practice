@@ -31,7 +31,19 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="another_file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="celsius_program.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dollar_counting_project.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="volume_sphere_project.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
