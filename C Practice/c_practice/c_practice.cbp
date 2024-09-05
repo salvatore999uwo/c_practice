@@ -37,10 +37,22 @@
 		<Unit filename="celsius_program.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="date_format_project.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="dollar_counting_project.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="fraction_adder.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="magic_square_problem.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="purchase_problem.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="volume_sphere_project.c">
