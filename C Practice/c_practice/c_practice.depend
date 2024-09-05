@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1725556449 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
+1725568774 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -12,4 +12,10 @@
 
 1725556563 source:c:\users\salva\onedrive\desktop\c practice\c_practice\dollar_counting_project.c
 	<stdlib.h>
+
+1725567844 source:c:\users\salva\onedrive\desktop\c practice\c_practice\fraction_adder.c
+
+1725568178 source:c:\users\salva\onedrive\desktop\c practice\c_practice\date_format_project.c
+
+1725568932 source:c:\users\salva\onedrive\desktop\c practice\c_practice\purchase_problem.c
 
