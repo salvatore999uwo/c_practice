@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1725568774 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
+1725894510 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
 	<stdio.h>
 	<stdlib.h>
+	<stdbool.h>
 
 1725553999 source:c:\users\salva\onedrive\desktop\c practice\c_practice\another_file.c
 
@@ -18,4 +19,32 @@
 1725568178 source:c:\users\salva\onedrive\desktop\c practice\c_practice\date_format_project.c
 
 1725568932 source:c:\users\salva\onedrive\desktop\c practice\c_practice\purchase_problem.c
+
+1725569545 source:c:\users\salva\onedrive\desktop\c practice\c_practice\magic_square_problem.c
+	<stdio.h>
+	<stdlib.h>
+
+1725620775 source:c:\users\salva\onedrive\desktop\c practice\c_practice\upc_code.c
+	<stdio.h>
+	<stdlib.h>
+
+1725630840 source:c:\users\salva\onedrive\desktop\c practice\c_practice\number_reverser.c
+	<stdio.h>
+	<stdlib.h>
+
+1725631591 source:c:\users\salva\onedrive\desktop\c practice\c_practice\decimal_to_octal.c
+	<stdio.h>
+	<stdlib.h>
+
+1725809013 source:c:\users\salva\onedrive\desktop\c practice\c_practice\excercises_selection_statements.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725812819 source:c:\users\salva\onedrive\desktop\c practice\c_practice\digit_counter.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725893880 source:c:\users\salva\onedrive\desktop\c practice\c_practice\military_time_convertor.c
 

@@ -34,13 +34,25 @@
 		<Unit filename="another_file.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="beaufort_scale.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="celsius_program.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="date_format_project.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="decimal_to_octal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="digit_counter.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="dollar_counting_project.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="excercises_selection_statements.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="fraction_adder.c">
@@ -52,7 +64,16 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="military_time_convertor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="number_reverser.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="purchase_problem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="upc_code.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="volume_sphere_project.c">
