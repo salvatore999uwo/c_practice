@@ -40,6 +40,12 @@
 		<Unit filename="celsius_program.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ch6_excercises.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="converted_square3.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="date_format_project.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -52,7 +58,13 @@
 		<Unit filename="dollar_counting_project.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="even_squares.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="excercises_selection_statements.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="find_gcd.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="fraction_adder.c">
@@ -70,7 +82,16 @@
 		<Unit filename="number_reverser.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="project_largest_num.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="purchase_problem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reduce_fraction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reverse_digits_loop.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="upc_code.c">
