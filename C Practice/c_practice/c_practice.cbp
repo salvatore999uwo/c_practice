@@ -37,10 +37,16 @@
 		<Unit filename="beaufort_scale.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="calendar_printer.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="celsius_program.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="ch6_excercises.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="compute_value_of_e.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="converted_square3.c">
@@ -56,6 +62,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="dollar_counting_project.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="earliest_date.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="even_squares.c">

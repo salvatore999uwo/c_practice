@@ -1,4 +1,4 @@
-//chapter 6, loops
+//chapter 7, basic types
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -6,7 +6,13 @@
 
 int main(void)
 {
-//project 8 -
+
+
+
+
+
+
+
 
 
 

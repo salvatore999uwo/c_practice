@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1726073227 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
+1726090375 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
@@ -76,6 +76,21 @@
 	<stdbool.h>
 
 1726072589 source:c:\users\salva\onedrive\desktop\c practice\c_practice\even_squares.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726073611 source:c:\users\salva\onedrive\desktop\c practice\c_practice\converted_square3.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726087093 source:c:\users\salva\onedrive\desktop\c practice\c_practice\calendar_printer.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726089289 source:c:\users\salva\onedrive\desktop\c practice\c_practice\earliest_date.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
