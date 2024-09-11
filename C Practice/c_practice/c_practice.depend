@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1725902668 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
+1726073227 source:c:\users\salva\onedrive\desktop\c practice\c_practice\main.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
@@ -49,4 +49,34 @@
 1725893880 source:c:\users\salva\onedrive\desktop\c practice\c_practice\military_time_convertor.c
 
 1725894577 source:c:\users\salva\onedrive\desktop\c practice\c_practice\beaufort_scale.c
+
+1726067890 source:c:\users\salva\onedrive\desktop\c practice\c_practice\ch6_excercises.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726067991 source:c:\users\salva\onedrive\desktop\c practice\c_practice\project_largest_num.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726068886 source:c:\users\salva\onedrive\desktop\c practice\c_practice\find_gcd.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726069658 source:c:\users\salva\onedrive\desktop\c practice\c_practice\reduce_fraction.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726071232 source:c:\users\salva\onedrive\desktop\c practice\c_practice\reverse_digits_loop.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1726072589 source:c:\users\salva\onedrive\desktop\c practice\c_practice\even_squares.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
 
