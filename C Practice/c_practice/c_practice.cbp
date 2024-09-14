@@ -46,6 +46,12 @@
 		<Unit filename="ch6_excercises.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="chap7_exercises.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chap7_notes.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="compute_value_of_e.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -92,6 +98,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="project_largest_num.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="project_modify_square2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="purchase_problem.c">
